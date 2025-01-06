@@ -62,7 +62,7 @@ const PrivacyPage = () => {
         If you have any questions about this Privacy Policy or how your data is
         handled, please contact us at:
       </p>
-      <p>Email: <a href="mailto:thosynpax@gmail.com">support@paxplanner.com</a></p>
+      <p>Email: <a href="mailto:thosynpax@gmail.com">thosynpax@gmail.com</a></p>
 
       <p>
         By using the PaxPlanner Chrome extension, you agree to the terms of
